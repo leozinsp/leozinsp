@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vinda ao meu perfi 
 
-<!--
-**leozinsp/leozinsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Leonardo Paschoal
 
-Here are some ideas to get you started:
+- estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem Javascript
+- utilizo esse espaço para organização e compartilhamento dos meus projetos desenvovidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Você pode entar em comtato comigo 📧
+
+Leonardopaschoa27@gmail.com
+
+@leonardo_.paschoal
+
+![](https://media1.tenor.com/m/mCiM7CmGGI4AAAAC/naruto.gif)
